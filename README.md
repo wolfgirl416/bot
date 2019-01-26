@@ -1,1 +1,1 @@
-# bot
+# wwtbamDiscordBot
